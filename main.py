@@ -1,6 +1,4 @@
-from hashlib import new
 from bs4 import BeautifulSoup
-from matplotlib.pyplot import text
 import requests
 import telebot
 from telebot import types
