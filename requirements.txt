@@ -1,0 +1,7 @@
+pyparsing==3.0.7
+pyrsistent==0.18.1
+pyTelegramBotAPI==4.4.0
+python-dateutil==2.8.2
+python-telegram-bot==13.11
+beautifulsoup4==4.10.0
+requests==2.27.1
